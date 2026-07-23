@@ -23,8 +23,7 @@ The codebase heavily emphasizes clean architecture, modularity, and comprehensiv
 - **3 Export Formats**: Save captures to CSV (spreadsheets), JSON (nested analysis), or PCAP (for Wireshark).
 - **Flexible Configuration**: Supports CLI arguments, environment variables, and a clean `sniffer.toml` config file.
 - **Cross-Platform Support**: Works on Windows (via Npcap) and Linux/macOS (via libpcap).
-- **Production-Quality Code**: Includes custom exception hierarchies, graceful keyboard interrupt handling, comprehensive logging, and a full Pytest suite.
-
+- **Production-Quality Code**: Includes custom exception hierarchies, graceful keyboard interrupt handling, and comprehensive logging.
 ---
 
 ## 📁 Folder Structure
@@ -40,14 +39,11 @@ Basic Network Sniffer/
 │   ├── display/                # Rich Live Dashboard & Formatters
 │   ├── export/                 # CSV, JSON, PCAP Exporters
 │   └── utils/                  # Exceptions, Loggers, OS Permissions
-├── tests/                      # Pytest suite with mock Scapy packets
 ├── docs/                       # Architecture, Usage, Protocol references
-├── logs/                       # Rotating log files (auto-generated)
-├── output/                     # Exported capture files (auto-generated)
-├── sniffer.toml                # User configuration file
+├── .gitignore                  # Git ignore rules
 ├── requirements.txt            # Production dependencies
-├── requirements-dev.txt        # Development dependencies
-└── setup.py                    # Package installation script
+├── README.md                   # This file
+└── LICENSE                     # MIT License
 ```
 
 ---
