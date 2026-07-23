@@ -4,18 +4,14 @@
 **Submitted in partial fulfillment of the requirements for the CodeAlpha Cyber Security Internship Program**
 
 **Prepared By:**
-[Your Name]
-[Your Roll Number/ID]
-[Your Degree/Program]
-
-**Under the Guidance of:**
-[Supervisor/Manager Name]
-[Supervisor Designation]
+[Hareesh Kumar]
+[Student ID: CA/DF1/211424]
+[BCA Cyber Security & Forensic]
 
 **Organization:**
 CodeAlpha
 
-**Date:** [Date]
+**Date:** [24-07-2026]
 
 <div style="page-break-after: always;"></div>
 
@@ -23,15 +19,9 @@ CodeAlpha
 
 # CERTIFICATE
 
-This is to certify that the internship report entitled **"Basic Network Sniffer"** submitted by **[Your Name]** is a record of original work carried out by them under supervision and guidance during their tenure. 
+This is to certify that the internship report entitled **"Basic Network Sniffer"** submitted by **[Hareesh Kumar]** is a record of original work carried out by them under supervision and guidance during their tenure. 
 
 This report is submitted in partial fulfillment of the requirements for the completion of the Cyber Security Internship Program at **CodeAlpha**. The work presented in this report highlights practical applications of network security concepts and has not been submitted anywhere else for the award of any other degree or diploma.
-
-**Signature of Supervisor:** _______________________
-
-**Name of Supervisor:** [Supervisor Name]
-**Designation:** [Supervisor Designation]
-**Date:** _______________________
 
 <div style="page-break-after: always;"></div>
 
